@@ -1,4 +1,4 @@
-update=2015-12-01 12:06:26 PM
+update=2015-12-02 11:21:02 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=E:/Documents/KiCad/MyLibs/MySynthParts
+LibName31=E:/Downloads/CD4024BE/CD4024BE
+LibName32=E:/Downloads/CD4013BE/CD4013BE
