@@ -1439,7 +1439,7 @@ F 1 "TL072-" H 3725 14300 60  0000 L CNN
 F 2 "~" H 3775 14550 60  0000 C CNN
 F 3 "~" H 3775 14550 60  0000 C CNN
 	2    3775 14550
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L TL072- U?
@@ -6646,8 +6646,6 @@ $EndComp
 Connection ~ 20875 10050
 Wire Wire Line
 	20875 10525 20875 10625
-Text Notes 3650 14875 0    50   ~ 0
-WHY IS THIS OP AMP FLIPPED OVER????
 $Comp
 L R_US R?
 U 1 1 5669843E
