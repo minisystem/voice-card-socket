@@ -2385,9 +2385,9 @@ F 3 "" H 34875 23925 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 36575 23200 2    50   Output ~ 0
-VCO1_SCALE
+VCO2_SCALE
 Text GLabel 36575 23700 2    50   Output ~ 0
-VCO1_PITCH_CV
+VCO2_PITCH_CV
 $Comp
 L POT_US TR9
 U 1 1 5668C1B4
@@ -2444,7 +2444,7 @@ F 3 "" H 36075 23200 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 36575 22625 2    50   Output ~ 0
-VCO1_TRI_SHAPE
+VCO2_TRI_SHAPE
 $Comp
 L GND_E #PWR076
 U 1 1 5668C1E0
