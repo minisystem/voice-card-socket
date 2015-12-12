@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source E:/Documents/KiCad/Polysynth/voice-socket-board/voice-socket-board.sch)
-    (date "2015-12-11 6:39:57 PM")
+    (date "2015-12-11 10:04:12 PM")
     (tool "Eeschema (2015-11-11 BZR 6310, Git 8f79b4f)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -65,7 +65,7 @@
       (tstamp 5664EF1D))
     (comp (ref C60)
       (value 10µ)
-      (footprint MyModules:SM0603-C-JRL)
+      (footprint MyModules:2MM-POL-CAP)
       (libsource (lib MySynthParts) (part CP_US))
       (sheetpath (names /) (tstamps /))
       (tstamp 5664EF40))
