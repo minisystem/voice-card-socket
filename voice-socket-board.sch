@@ -2759,15 +2759,15 @@ Text GLabel 10275 23125 0    50   Input ~ 0
 NOISE
 Text GLabel 10300 21250 0    50   Input ~ 0
 VCO1_SAW
-Text GLabel 10300 21150 0    50   Input ~ 0
-VCO1_TRI
 Text GLabel 10300 21050 0    50   Input ~ 0
+VCO1_TRI
+Text GLabel 10300 21150 0    50   Input ~ 0
 VCO1_PULSE
 Text GLabel 10275 22300 0    50   Input ~ 0
 VCO2_SAW
-Text GLabel 10275 22200 0    50   Input ~ 0
-VCO2_TRI
 Text GLabel 10275 22100 0    50   Input ~ 0
+VCO2_TRI
+Text GLabel 10275 22200 0    50   Input ~ 0
 VCO2_PULSE
 Text GLabel 15725 22600 2    50   Output ~ 0
 VCF_IN
@@ -7204,7 +7204,7 @@ Wire Wire Line
 	5200 24450 5200 24350
 Connection ~ 5200 24350
 Wire Wire Line
-	3825 23550 4450 23550
+	3825 23550 4475 23550
 Wire Wire Line
 	3825 23150 3825 23575
 Wire Wire Line
