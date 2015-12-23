@@ -5,3 +5,5 @@ report.txt
 _autosave*
 _saved_*
 *.pdf
+*.wrl
+/shapes3D/
